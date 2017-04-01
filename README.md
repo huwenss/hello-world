@@ -1,2 +1,2 @@
 # hello-world
-The first repository created by me.
+Hi Humans!
